@@ -1,7 +1,9 @@
-# image overlay on video using ffmpeg api and cpp
+# image overlay onffmpeg-cpp
 
 ## DESCRIPTION
-**image overlay on video ffmpeg-cpp** is an application which demonstrates the L shape ad which we have seen during live sports matches.
+**screen-recorder-ffmpeg-cpp** is an application to record a desktop (x11).
+
+Screen recorder applications was developed using C++ FFMPEG library. Screen recorder can able to capture the screen as video and store it in advanced codec of Mpeg4 and mp4 formats. 
 
 keep track and fork **master branch** [an updated branch]
 
@@ -14,9 +16,9 @@ keep track and fork **master branch** [an updated branch]
 
 ----------
 
-Below is the sample screen shot of vthe program. click the below to view the resultant video of the applications..
+Below is the sample screen shot of video screen recorder. click the below to view the resultant video of the Screen recorder applications..
 
-[![Watch the video](https://github.com/abdullahfarwees/image_overlay_on_video_using_ffmpeg_cpp/blob/main/screen_shots.JPG](https://youtu.be/HR6KGsO60-Q)
+[![Watch the video](https://github.com/abdullahfarwees/image_overlay_on_video_using_ffmpeg_cpp/blob/main/screen_shot.PNG)](https://youtu.be/HR6KGsO60-Q)
  
 [1]:https://trac.ffmpeg.org/wiki/CompilationGuide
 
